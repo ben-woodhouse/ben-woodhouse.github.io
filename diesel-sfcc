@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="../assets/icon/cloudinary_favicon_32x32.png" rel="icon" sizes="32x32" type="image/png">
+    <style>
+      img {
+        width: 250px;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>SFCC images</h1>
+    <div >
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw56cdf88c/images/large/A05984_068AS_01_A.jpg?sw=1240&sh=1860"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dwcf15ae04/images/large/A05984_068AS_01_R.jpg?sw=1240&sh=1860"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw3fd47843/images/large/A05984_068AS_01_C.jpg?sw=1240&sh=1860"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw82ed9f87/images/large/A05984_068AS_01_I.jpg?sw=1240&sh=1860"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw2836b1d9/images/large/A05984_068AS_01_F.jpg?sw=1240&sh=1860"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dwc448a2e9/images/large/A05984_068AS_01_E.jpg?sw=1240&sh=1860"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw2836b1d9/images/large/A05984_068AS_01_F.jpg?sw=720"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dwfd775da8/images/large/Y02858_P4470_T5081_F.jpg?sw=306"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw054bb156/images/large/X08470_PR818_T8013_F.jpg?sw=306"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/on/demandware.static/-/Sites-diesel-master-catalog/default/dw3fd47843/images/large/A05984_068AS_01_C.jpg"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/on/demandware.static/-/Sites-diesel-master-catalog/default/dw82ed9f87/images/large/A05984_068AS_01_I.jpg"
+        alt=""
+      />
+      <img
+        src="https://uk.diesel.com/on/demandware.static/-/Sites-diesel-master-catalog/default/dw2836b1d9/images/large/A05984_068AS_01_F.jpg"
+        alt=""
+      />
+    </div>
+  </body>
+</html>
